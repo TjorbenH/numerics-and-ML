@@ -1,6 +1,9 @@
 # Double Pendulum 
 
-![Double Pendulum Illustration](images/Double-Pendulum.png)
+<img src="../../images/Double-Pendulum.png" 
+    alt="Double Pendulum" 
+    width="200" 
+    style="background-color: grey; padding: 10px;"/>
 
 ## Problem Abstract
 In physics and mathematics, in the area of dynamical systems, a double pendulum, also known as a chaotic pendulum, is a pendulum with another pendulum attached to its end, forming a complex physical system that exhibits rich dynamic behavior with a strong sensitivity to initial conditions. The motion of a double pendulum is governed by a pair of coupled ordinary differential equations and is chaotic. 
