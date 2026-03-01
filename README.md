@@ -10,4 +10,7 @@ Hopefully there will be an actual list here in the near future.
 Things I'm currently working on and implementing.
 * [Double Pendulum Simulation](experiments/double_pendulum/README.md)
 
+### TODO
+* [ ] handwritten digit neural network (pixel wise) -> preprocessing to detect the digits on actual images as well 
+
 ## Relevant Literature 

@@ -11,5 +11,11 @@ In physics and mathematics, in the area of dynamical systems, a double pendulum,
 ## Project
 The main goal is to explore different numerical methods for solving the ODEs underlying the motion of the double pendulum. These will be compared along various metrics such as speed of convergence, necessary compute, local and global error. 
 
+## TODO
+* [ ] include different methods for solving the DG
+* [ ] compare the methods and visualize differences such as order 
+* [ ] visualize and quantify the chaotic nature
+* [ ] build an efficient real time implementation 
+
 ## Sources
 Both the image and the abstract were taken from [Wikipedia](https://en.wikipedia.org/wiki/Double_pendulum).
